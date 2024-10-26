@@ -1,0 +1,36 @@
+
+
+body {
+  background-color: #f8f9fa;
+  font-family: 'Arial', sans-serif;
+  margin: 20px;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.total-selected {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.table {
+  text-align: center;
+}
+
+.btn-status {
+  border-radius: 15px;
+  padding: 5px 10px;
+  color: white;
+  font-weight: bold;
+}
+
+.active-status {
+  background-color: #17a2b8;
+}
+
+.inactive-status {
+  background-color: #dc3545;
+}
